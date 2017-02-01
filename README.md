@@ -60,7 +60,7 @@ System was damaged by changing default target the system boots to from multi-use
 
         # systemctl set-default multi-user.target
         
- 4. Reboot system
+4. Reboot system
 
 ##### Method 3: Without using rescue DVD - amending boot parameters
 
