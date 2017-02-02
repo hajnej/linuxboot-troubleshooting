@@ -1,3 +1,3 @@
-rm -rf initramfs* /boot
+rm -rf /boot/initramfs*
 systemctl reboot &
 exit 0
